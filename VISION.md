@@ -142,6 +142,58 @@ the score the server computes**, so the rank becomes trustworthy.
 
 ---
 
+## Part II — Go-to-market & defensibility
+
+A second research round (competitive landscape, unit economics, PLG, marketplace cold-start,
+assessment integrity) sharpened *how this wins as a business*, not just how it retains.
+
+### II.1 The unifying insight: the game loop **is** the efficacy
+AI roleplay genuinely lifts performance — ~36% higher close rates within 90 days, +19% quota
+attainment from regular feedback — **but skills decay in 30–60 days without 3–5 sessions/week.**
+That means the retention mechanics (streaks, seasons, leagues) are not engagement candy bolted
+onto a training tool; they are *the mechanism that makes the training work*. The addiction loop
+and the ROI are the same sentence. **Sell it that way:** "roleplay works — but only if reps keep
+doing it, and they won't, because every other tool is a chore."
+
+### II.2 The white space: own the individual rep (bottom-up)
+Every serious competitor (Hyperbound, Second Nature, Quantified, Mindtickle) is enterprise,
+sales-led, custom-priced (5–6 figure ACVs), 2 weeks–months to set up. The cheap ones (Kendo,
+Yoodli) aren't competitive/ranked. **Not one is a free, self-serve, ranked game a rep plays on
+their own for their own career.** That is the wedge, and it's the proven Slack land-and-expand
+motion: free rep → invites team → manager wants analytics → company buys. Market is real:
+sales-enablement platforms ~$7B (2026) → ~$25B (2034), ~16–17% CAGR.
+
+### II.3 Additions beyond the five core mechanics
+- **Come-for-the-tool, stay-for-the-network sequencing.** Launch single-player; accumulate ranked
+  reps (the hard supply side); *then* flip on the scouting marketplace. The game is the
+  supply-acquisition engine. Niche down first (one segment, e.g. SaaS cold-call SDRs) to hit
+  liquidity, then expand.
+- **Virality engine of shareable artifacts.** Reps discover tools via LinkedIn + private
+  ("word-of-Slack") communities, not ads. Every brutal roast and rank-up gets a one-tap shareable
+  card + a public profile URL; every share reintroduces the product. Seed sales influencers.
+- **Two-tier score: Casual vs Verified/Ranked.** Casual practice stays frictionless; the
+  credential-grade rank is identity-checked and cheat-resistant (identity verification + transcript
+  integrity + anomaly detection cut cheating ~85–90%). A fakeable rank is worthless to employers.
+- **Manager/team layer = the monetization bridge.** `TeamHub` is where free→paid converts: team
+  leaderboards, practice-frequency analytics, and **skills-decay alerts** ("4 reps haven't
+  practiced in 30 days — close rate at risk").
+- **Adaptive "edge-of-ability" matchmaking.** Calibrate boss difficulty to ELO + slightly above —
+  deliberate practice requires working just past current skill, which makes practice both more
+  addictive (winnable) and more effective.
+
+### II.4 The buyer ROI story (quantified)
+SDR turnover ~34%/yr, ramp 3.2 months (AE 4.4), mis-hire costs 1.5–2× salary, losing one SDR
+$100K+. Two pitches: training — "36% higher close rates, but only if they practice — we're the
+only thing that makes them"; scouting — "stop paying $100K to discover someone can't sell; see
+their verified rank first."
+
+### II.5 The near-term risk to respect
+Voice-first incumbents (Hyperbound, Quantified) compete on *realism*. Text-only roleplay is a
+disadvantage in that fight. **The ElevenLabs voice layer is table stakes, not polish** — keep it
+on the near roadmap, right behind the backend foundation.
+
+---
+
 ## 7. Current architecture (as of this writing)
 
 - **Frontend:** React 19 + Vite + Tailwind, 18 routes (`src/App.tsx`). GAELWORX visual system in
@@ -171,3 +223,13 @@ the score the server computes**, so the rank becomes trustworthy.
 - Octalysis — [Yu-kai Chou](https://yukaichou.com/gamification-examples/octalysis-gamification-framework/)
 - Gamified hiring — [AssessCandidates](https://www.assesscandidates.com/pre-employment-game-based-assessments-for-recruitment/),
   [Jobful](https://jobful.io/resources/post/gamification-skills-assessments-recruitment)
+- Competitive landscape — [Dialfyne comparison](https://dialfyne.com/blog/ai-sales-roleplay-platform-comparison-2026),
+  [Kendo AI](https://kendo.ai/blogs/best-ai-sales-roleplaying-tools)
+- Roleplay efficacy / deliberate practice — [Auto Interview AI](https://www.autointerviewai.com/blog/why-ai-roleplay-teams-close-36-percent-more-deals-2026)
+- Sales hire economics — [MarketBetter](https://www.marketbetter.ai/blog/sdr-turnover-cost-analysis-2026/),
+  [Orum](https://www.orum.com/blog/sales-turnover), [SalesSo ramp](https://salesso.com/blog/sdr-ramp-up-statistics/)
+- Product-led growth — [Aakash Gupta PLG 2026](https://www.news.aakashg.com/p/plg-in-2026),
+  [marketplace cold-start](https://forkoff.xyz/blog/founder-growth/two-sided-marketplace-cold-start-2026)
+- Market size — [Fortune Business Insights](https://www.fortunebusinessinsights.com/sales-enablement-platform-market-114208)
+- Assessment integrity — [Testlify proctoring](https://testlify.com/anti-cheating-and-proctoring/)
+- Rep distribution — [HubSpot social selling](https://blog.hubspot.com/sales/social-selling-stats)
