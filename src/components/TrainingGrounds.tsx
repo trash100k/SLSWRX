@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Mail, CheckCircle, AlertTriangle, Zap, Target, BrainCircuit, Library, Swords, Flame, ChevronRight, BookOpen, Quote, ShieldAlert, Check, X } from 'lucide-react';
+import { Mail, CheckCircle, AlertTriangle, Zap, Target, BrainCircuit, Library, Swords, Flame, ChevronRight, BookOpen, Quote, ShieldAlert, Check, X, Activity } from 'lucide-react';
 
 const PLAYBOOKS = [
   { id: 1, title: 'The Pattern Interrupt', category: 'Hook', time: '1 min read', content: "Instead of 'How are you?', use 'I know I am an interruption, do you have 27 seconds?'. It breaks the prospect's autopilot rejection loop and grants you permission to pitch.", icon: Zap, color: 'text-amber-500', bg: 'bg-amber-500/10', border: 'border-amber-500/30' },
