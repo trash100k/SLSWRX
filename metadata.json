@@ -1,0 +1,6 @@
+{
+  "name": "SalesProof",
+  "description": "Gamified sales training tool to practice roleplaying and get AI-powered feedback against a customized 10-point scale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
