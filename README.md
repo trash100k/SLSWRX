@@ -2,7 +2,11 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# SalesWorx — competitive sales roleplay
+
+Gamified sales training: roleplay calls against AI buyer personas, get brutally-honest AI grading, climb a ranked ladder.
+
+**📋 Roadmap:** see [docs/00-MASTER-PLAN.md](docs/00-MASTER-PLAN.md) — the full plan to take this from prototype to a real product (voice harness, judge pipeline, Glicko-2 ladder, One Shot weekly mode, growth engine), with a forensic codebase audit, verified research appendix, and agent-executable build milestones.
 
 This contains everything you need to run your app locally.
 
